@@ -49,9 +49,7 @@ The system simulates a real interview environment using AI by:
 
 ##  Project Structure
 <img width="487" height="491" alt="image" src="https://github.com/user-attachments/assets/73f3c5b2-9b66-48ea-ac14-c0cfa9011cc6" />
-## Create .env File
-      PORT=3000
-      OPENAI_API_KEY=your_openai_api_key
+
 
 
 
