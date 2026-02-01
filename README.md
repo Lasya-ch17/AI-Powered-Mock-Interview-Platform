@@ -50,6 +50,39 @@ The system simulates a real interview environment using AI by:
 ##  Project Structure
 <img width="487" height="491" alt="image" src="https://github.com/user-attachments/assets/73f3c5b2-9b66-48ea-ac14-c0cfa9011cc6" />
 
+### API Endpoints (Interview Flow)
+## Start Interview
+POST /api/interview/start
+
+
+## Body:
+
+{
+  "resumeData": {},
+  "jdData": "Job description text"
+}
+
+## Submit Answer
+POST /api/interview/submit
+
+
+## Body:
+
+{
+  "sessionId": "session_id",
+  "answer": "Candidate answer text"
+}
+
+## Finish Interview
+POST /api/interview/finish
+
+
+## Body:
+
+{
+  "sessionId": "session_id"
+}
+
 
 
 
