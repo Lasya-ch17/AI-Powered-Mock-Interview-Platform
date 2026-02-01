@@ -48,7 +48,8 @@ The system simulates a real interview environment using AI by:
 - **dotenv**
 
 ##  Project Structure
-<img width="487" height="491" alt="image" src="https://github.com/user-attachments/assets/73f3c5b2-9b66-48ea-ac14-c0cfa9011cc6" />
+<img width="330" height="445" alt="image" src="https://github.com/user-attachments/assets/ea18a438-de66-4905-9075-694e755134ec" />
+
 
 ### API Endpoints (Interview Flow)
 ## Start Interview
